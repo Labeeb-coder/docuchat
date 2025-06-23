@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+*.venv
+.env
+.venv/
+.env.*
+
+# Virtual environments
+ENV/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
