@@ -1,10 +1,8 @@
-# Existing dependencies
 streamlit
 PyPDF2
 langchain
 sentence-transformers
 faiss-cpu
-
-# New dependencies for Mistral model
-mistral_common
 transformers==4.33.3
+sentencepiece
+torch
