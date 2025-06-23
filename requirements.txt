@@ -6,3 +6,4 @@ faiss-cpu
 transformers==4.33.3
 sentencepiece
 torch
+pdfplumber
